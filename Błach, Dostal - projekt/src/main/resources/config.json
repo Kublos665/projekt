@@ -1,0 +1,15 @@
+{
+  "budget": 5000,
+
+  "soldierCost": 25,
+  "soldierPower": 50,
+
+  "tankCost": 150,
+  "tankPower": 360,
+
+  "rocketLauncherCost": 200,
+  "rocketLauncherPower": 500,
+
+  "bossHp": 250000,
+  "bossDefense": 100
+}

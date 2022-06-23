@@ -1,0 +1,12 @@
+[
+  {
+    "numberOfTurns": 20,
+    "healBossCounter": 0,
+    "loseTroopsCounter": 1,
+    "raiseDefenseCounter": 0,
+    "doubleTroopsCounter": 1,
+    "numberOfSoldiers": 100,
+    "numberOfTanks": 10,
+    "numberOfRocketLaunchers": 5
+  }
+]
